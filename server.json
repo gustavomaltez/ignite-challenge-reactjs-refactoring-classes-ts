@@ -15,6 +15,14 @@
       "price": "21.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+    },
+    {
+      "image": "Teste",
+      "name": "alo alo",
+      "price": "19.54",
+      "description": "asdoas daioshjd aiosdhjaiosdhjaiosdhasuioas ido",
+      "available": true,
+      "id": 3
     }
   ]
 }
