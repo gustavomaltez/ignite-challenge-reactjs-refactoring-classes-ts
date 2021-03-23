@@ -34,7 +34,6 @@ const ModalEditFood = ({ isOpen, setIsOpen, handleUpdateFood, editingFood }: Mod
   const formRef = useRef<FormHandles>(null)
 
   const handleSubmit: SubmitHandler<FormData> = data => {
-    console.log(data);
     handleUpdateFood(data);
     setIsOpen(false);
   }
