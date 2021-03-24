@@ -10,19 +10,19 @@
     },
     {
       "id": 2,
-      "name": "Veggie",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
+      "name": "Veggie",
       "price": "21.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "available": true
     },
     {
       "id": 3,
-      "image": "Teste123",
-      "description": "aasd",
-      "name": "alo alo4",
-      "price": "19.545",
-      "available": true
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
+      "name": "macarrão top",
+      "price": "87.45",
+      "available": false
     }
   ]
 }
